@@ -1,4 +1,4 @@
-Welcome to the [Research Software Training Netherlands](https://researchsoftwaretraining.nl/) (RSTNL) GitHub organization! On the [discussions forum](https://github.com/orgs/researchsoftwaretrainingNL/discussions) you can interact with other members of the RSTNL network and find relevant training material and resources for providing programming training.
+Welcome to the [Research Software Training Netherlands](https://researchsoftwaretraining.nl/) (RSTNL) GitHub organization! On the [discussions forum](https://github.com/orgs/researchsoftwaretrainingNL/discussions) you can interact with other members of the RSTNL network and find relevant initiatives around training material and resources for providing programming training. On our [website](https://researchsoftwaretraining.nl/resources/), you will also find an elaborate list of resources that is regularly updated. 
 
 ## About RSTNL
 
